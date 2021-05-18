@@ -1,0 +1,14 @@
+com/konusarakogrencase/ReactNativeFlipper.java
+ com.konusarakogrencase.ReactNativeFlipper
+ com.konusarakogrencase.ReactNativeFlipper$1
+ com.konusarakogrencase.ReactNativeFlipper$2
+ com.konusarakogrencase.ReactNativeFlipper$2$1
+com/konusarakogrencase/BuildConfig.java
+ com.konusarakogrencase.BuildConfig
+com/konusarakogrencase/MainApplication.java
+ com.konusarakogrencase.MainApplication
+ com.konusarakogrencase.MainApplication$1
+com/konusarakogrencase/MainActivity.java
+ com.konusarakogrencase.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
