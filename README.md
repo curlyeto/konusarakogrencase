@@ -13,7 +13,7 @@ Made using the ricky and morty api.
 </tr>
 </table>
 
-## **Installition**
+## **Installation**
 
 1) create folder any directery
 2) open directery with cmd or terminal
