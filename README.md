@@ -20,4 +20,6 @@ Made using the ricky and morty api.
 3) run this command line -> git clone https://github.com/curlyeto/konusarakogrencase.git
 4) go to konusarakogrencase directery
 5) npm install
-6) npx react-native run-android
+6) cd android
+7) ./gradlew clean
+8) npx react-native run-android
